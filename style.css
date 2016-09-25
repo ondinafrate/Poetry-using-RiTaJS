@@ -1,0 +1,32 @@
+body{
+    margin: 20;
+    padding: 20px;
+    background: #fff;
+    font-family: "Georgia", serif;
+    line-height: 2;
+}
+
+#text-holder{
+    margin-top: 10px;
+}
+
+.text-container {
+    margin-bottom: 30px;
+}
+
+h1{
+    font-weight: bold;
+    color: blue;
+}
+
+ h3{
+    font-weight: bold;
+ }
+
+ #exampleText{
+    margin-top: 30px;
+ }
+
+p{
+    font-size: 16px;
+}
